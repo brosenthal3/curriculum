@@ -172,4 +172,5 @@ To add your solution to the list below, edit this [file](https://github.com/TheO
 * [liampc's Solution](https://github.com/liampc/to-do-list) - [View in Browser](https://liampc.github.io/to-do-list/)
 * [Jamesredux's Solution](https://github.com/Jamesredux/js-todo) - [View in Browser](https://jamesredux.github.io/js-todo/)
 * [Timework's Solution](https://github.com/Timework/todo) - [View in Browser](https://timework.github.io/todo/)
+* [BenR's Solution](https://github.com/brosenthal3/todoz) - [View in Browser](https://brosenthal3.github.io/todoz)
 </details>
